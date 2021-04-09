@@ -1,5 +1,4 @@
 language: java
-
 matrix:
    include:
       # always build this environment
