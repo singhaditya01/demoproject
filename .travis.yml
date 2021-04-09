@@ -8,3 +8,12 @@ cache:
 script:
    - cd com.examples.myproject/
    - mvn clean package
+
+notifications:
+  email:
+    recipients:
+      - adityacse2019@gmail.com
+      - aditya.singh@bangmetric.com
+
+    on_success: always 
+    on_failure: never
