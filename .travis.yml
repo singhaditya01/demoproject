@@ -14,6 +14,8 @@ notifications:
     recipients:
       - adityacse2019@gmail.com
       - aditya.singh@bangmetric.com
+      - gundeep@bangmetric.com
+      - Jeevan.Bhasin@bangmetric.com
 
     on_success: always 
     on_failure: never
